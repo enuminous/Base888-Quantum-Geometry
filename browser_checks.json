@@ -1,0 +1,17 @@
+{
+  "javascript_errors": [],
+  "reference_state_count": "49",
+  "link_count": "120",
+  "unitarity_initial": "1.0000000000",
+  "candidate_check": "Single-qudit norm\u00b2 = 1\nPASS\nBipartite link normalization\nPASS\n0 \u2264 pair I \u2264 2 bits\nPASS\nEuclidean triangle inequalities\nPASS\n\u03ba = 0 reproduces baseline\nN/A\n888 required by dynamics\nUNRESOLVED\nEinstein / GR continuum limit\nUNRESOLVED\nEFMW physical novelty\nUNRESOLVED",
+  "null_shift": "0.00000",
+  "null_pass": true,
+  "uniform_flat_interior_max_abs_K": 0,
+  "path_nodes": "(0,0) \u2192 (6,6)",
+  "base_path": "7.5950",
+  "candidate_path": "7.8440",
+  "exportJson": "base888-experiment.json",
+  "exportCsv": "base888-history.csv",
+  "exportPng": "base888-geometry.png",
+  "javascript_errors_final": []
+}
