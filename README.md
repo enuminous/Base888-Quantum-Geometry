@@ -1,5 +1,31 @@
 # Base888 Quantum Geometry
 
+<!-- ENUMINOUS-UNIFIED-NAV:START -->
+## Repository navigation
+
+**eNuminous network:** [All public repositories](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md) · [EFMW](https://github.com/enuminous/EFMW) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [Frozen Lean](https://github.com/enuminous/Monolithic-102-Zoo-Lean4) · [Zoo](https://github.com/enuminous/Tortoise) · [Papers](https://github.com/enuminous/papers) · [Quantum geometry](https://github.com/enuminous/Base888-Quantum-Geometry)
+
+**This project:** [Repository home](https://github.com/enuminous/Base888-Quantum-Geometry) · [Subject index](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md#fundamental-physics-cosmology-and-quantum-geometry)
+
+<details open>
+<summary><strong>On this page</strong></summary>
+
+- [Open and deploy](#open-and-deploy)
+- [What it does](#what-it-does)
+- [First experiments](#first-experiments)
+- [Source files (flat root)](#source-files-flat-root)
+  - [Run mathematical regression tests](#run-mathematical-regression-tests)
+- [Connection to original sources](#connection-to-original-sources)
+
+
+</details>
+
+**Related repositories:** [Quantum-Gravity](https://github.com/enuminous/Quantum-Gravity) · [QST](https://github.com/enuminous/QST) · [Codex-888](https://github.com/enuminous/Codex-888) · [EFMW](https://github.com/enuminous/EFMW) · [Standard-Model-Reduction](https://github.com/enuminous/Standard-Model-Reduction) · [EFMW-Physics-Lab](https://github.com/enuminous/EFMW-Physics-Lab) · [Higgs-Gauge-Lab](https://github.com/enuminous/Higgs-Gauge-Lab) · [papers](https://github.com/enuminous/papers)
+
+> **Evidence boundary:** A link between projects is navigation, not an assertion of proven equivalence, experimental validation, or shared authorship. See each repository’s own status and review notes.
+<!-- ENUMINOUS-UNIFIED-NAV:END -->
+
+
 **Interactive finite quantum-information and relational-geometry laboratory** inspired by the symbolic `enuminous/Codex-888` system and the EFMW research program. **Not a solution of quantum gravity.**
 
 ## Open and deploy
